@@ -25,5 +25,8 @@ const connect = function () {
 };
 
 module.exports = { connect };
+<<<<<<< HEAD
 
+=======
+>>>>>>> 923ee07f2fabae28a7f4c5ceca510606c0331c65
 
